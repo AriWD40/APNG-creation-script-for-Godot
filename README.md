@@ -93,12 +93,12 @@ The writer implements the APNG specification by:
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues and pull requests.
+Contributions are welcome! Feel free to use this as you please.
 
 ## License
 
-[Add your chosen license here]
+No license, I know it says MIT, disregard that.
 
 ## Credits
 
-Created by [Your Name]
+Created Entirely by Claude with my prompts, this README too.
